@@ -9,7 +9,7 @@ I'm an enthusiastic and creative junior developer with a passion for 3D visualiz
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,threejs,vscode,github,codepen,blender)](https://skillicons.dev)
 
 ## Learning Progress
-- [ ] Basic ICT Training ![](https://geps.dev/progress/100)  
+- [x] Basic ICT Training ![](https://geps.dev/progress/100)  
 - [ ] PHP Developer Training ![](https://geps.dev/progress/80)  
 - [ ] THREE.js Journey ![](https://geps.dev/progress/33)
 
