@@ -14,6 +14,6 @@ I'm an enthusiastic and creative junior developer with a passion for 3D visualiz
 - [ ] THREE.js Journey ![](https://geps.dev/progress/33)
 
 ## My Projects
-**[Showcase](https://Sofie-van-der-Meer.be)** - My portfolio website to show what I've learned so far as an junior Full-Stack developer.\
-**[Prularia](https://Sofie-van-der-Meer.be/demo/prularia)** - As a team of 9 developers, we made a webshop to learn the principles of Scrum Agile methodology [view the code](https://github.com/Sofie-van-der-Meer/Prularia)  
-**[Pizzaria](https://Sofie-van-der-Meer.be/demo/pizzaria)** - For a school project I made this take-away website in PHP where you can order pizza. [view the code](https://github.com/Sofie-van-der-Meer/Pizzaria)
+**[Showcase](https://Sofie-van-der-Meer.be)** - My portfolio website to show what I've learned so far as a junior Full-Stack developer.\
+**[Prularia](https://demo.prularia.Sofie-van-der-Meer.be)** - As a team of 9 developers, we made a webshop to learn the principles of Scrum Agile methodology [view the code](https://github.com/Sofie-van-der-Meer/Prularia)  
+**[Pizzaria](https://demo.pizzaria.Sofie-van-der-Meer.be)** - For a school project I made this take-away website in PHP where you can order pizza. [view the code](https://github.com/Sofie-van-der-Meer/Pizzaria)
