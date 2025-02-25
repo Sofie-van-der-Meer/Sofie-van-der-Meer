@@ -10,7 +10,7 @@ I'm an enthusiastic and creative junior developer with a passion for 3D visualiz
 
 ## Learning Progress
 - [x] Basic ICT Training ![](https://geps.dev/progress/100)  
-- [ ] PHP Developer Training ![](https://geps.dev/progress/80)  
+- [ ] PHP Developer Training ![](https://geps.dev/progress/87.5)  
 - [ ] THREE.js Journey ![](https://geps.dev/progress/33)
 
 ## My Projects
