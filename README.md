@@ -11,7 +11,7 @@ I'm an enthusiastic and creative junior developer with a passion for 3D visualiz
 ## Learning Progress
 - [x] Basic ICT Training ![](https://geps.dev/progress/100)  
 - [ ] PHP Developer Training ![](https://geps.dev/progress/87)  
-- [ ] THREE.js Journey ![](https://geps.dev/progress/33)
+- [ ] THREE.js Journey ![](https://geps.dev/progress/36)
 
 ## My Projects
 **[Showcase](https://Sofie-van-der-Meer.be)** - My portfolio website to show what I've learned so far as a junior Full-Stack developer [view the code](https://github.com/Sofie-van-der-Meer/Showcase) \
